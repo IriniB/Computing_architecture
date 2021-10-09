@@ -1,0 +1,32 @@
+Container contains  13  elements. 
+0 : procedural	 name3 2021 1.000000 0 
+1 : functional	 name1 1995 1.000000 1 STRICT 
+2 : object_oriented	 name2 2000 1.000000 PLURALCT 
+3 : procedural	 name3 2021 1.000000 0 
+4 : functional	 name1 1995 1.000000 1 STRICT 
+5 : object_oriented	 name2 2000 1.000000 PLURALCT 
+6 : procedural	 name3 2021 1.000000 0 
+7 : functional	 name1 1995 1.000000 1 STRICT 
+8 : object_oriented	 name2 2000 1.000000 PLURALCT 
+9 : procedural	 name3 2021 1.000000 0 
+10 : functional	 name1 1995 1.000000 1 STRICT 
+11 : object_oriented	 name2 2000 1.000000 PLURALCT 
+12 : procedural	 name3 2021 1.000000 0 
+
+
+
+ --------------------------After sorting--------------------------
+Container contains  13  elements. 
+0 : procedural	 name3 2021 1.000000 0 
+1 : procedural	 name3 2021 1.000000 0 
+2 : procedural	 name3 2021 1.000000 0 
+3 : procedural	 name3 2021 1.000000 0 
+4 : procedural	 name3 2021 1.000000 0 
+5 : object_oriented	 name2 2000 1.000000 PLURALU 
+6 : object_oriented	 name2 2000 1.000000 PLURALU 
+7 : object_oriented	 name2 2000 1.000000 PLURALU 
+8 : object_oriented	 name2 2000 1.000000 PLURALU 
+9 : functional	 name1 1995 1.000000 1 STRICT 
+10 : functional	 name1 1995 1.000000 1 STRICT 
+11 : functional	 name1 1995 1.000000 1 STRICT 
+12 : functional	 name1 1995 1.000000 1 STRICT 
