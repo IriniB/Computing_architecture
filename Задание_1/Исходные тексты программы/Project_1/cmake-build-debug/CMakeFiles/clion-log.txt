@@ -1,0 +1,4 @@
+/home/irini/Downloads/CLion-2021.2.2/clion-2021.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/irini/Documents/Project_1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/irini/Documents/Project_1/cmake-build-debug

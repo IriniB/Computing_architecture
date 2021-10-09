@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Project_1.dir/main.c.o CMakeFiles/Project_1.dir/container.c.o CMakeFiles/Project_1.dir/functional.c.o CMakeFiles/Project_1.dir/object_oriented.c.o CMakeFiles/Project_1.dir/procedural.c.o CMakeFiles/Project_1.dir/programming_language.c.o CMakeFiles/Project_1.dir/random.c.o -o Project_1 

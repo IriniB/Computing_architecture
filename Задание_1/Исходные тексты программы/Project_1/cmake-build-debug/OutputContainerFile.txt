@@ -1,0 +1,14 @@
+Container contains  4  elements. 
+0 : functional	 name144444444 2015 1.000000 1 STRICT 
+1 : functional	 name11 1995 1.000000 1 STRICT 
+2 : object_oriented	 name2 2020 1.000000 PLURALCT 
+3 : procedural	 name3 2021 1.000000 0 
+
+
+
+ --------------------------After sorting--------------------------
+Container contains  4  elements. 
+0 : procedural	 name3 2021 1.000000 0 
+1 : object_oriented	 name2 2020 1.000000 PLURALV 
+2 : functional	 name144444444 2015 1.000000 1 STRICT 
+3 : functional	 name11 1995 1.000000 1 STRICT 
