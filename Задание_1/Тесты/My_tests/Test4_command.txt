@@ -1,1 +1,0 @@
-./Project_1 rand Test4_Output.txt 1000
