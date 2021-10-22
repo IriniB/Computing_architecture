@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/Project_2.dir/main.cpp.o CMakeFiles/Project_2.dir/container.cpp.o CMakeFiles/Project_2.dir/functional.cpp.o CMakeFiles/Project_2.dir/object_oriented.cpp.o CMakeFiles/Project_2.dir/procedural.cpp.o CMakeFiles/Project_2.dir/programming_language.cpp.o -o Project_2 
