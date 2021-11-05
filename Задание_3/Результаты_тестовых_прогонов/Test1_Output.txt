@@ -1,0 +1,32 @@
+Container contains 13 elements.
+Procedural: name: name3 year: 2021 popularity: 1.0 abstract: True Quotient: 404.2
+Functional: name: name1 year: 1995 popularity: 1.0 support: True type: Typing.STRICT Quotient: 399.0
+ObjectOriented: name: name2 year: 2000 popularity: 1.0 inheritance: Inheritance.PLURAL Quotient: 400.0
+Procedural: name: name3 year: 2021 popularity: 1.0 abstract: True Quotient: 404.2
+Functional: name: name1 year: 1995 popularity: 1.0 support: True type: Typing.STRICT Quotient: 399.0
+ObjectOriented: name: name2 year: 2000 popularity: 1.0 inheritance: Inheritance.PLURAL Quotient: 400.0
+Procedural: name: name3 year: 2021 popularity: 1.0 abstract: True Quotient: 404.2
+Functional: name: name1 year: 1995 popularity: 1.0 support: True type: Typing.STRICT Quotient: 399.0
+ObjectOriented: name: name2 year: 2000 popularity: 1.0 inheritance: Inheritance.PLURAL Quotient: 400.0
+Procedural: name: name3 year: 2021 popularity: 1.0 abstract: True Quotient: 404.2
+Functional: name: name1 year: 1995 popularity: 1.0 support: True type: Typing.STRICT Quotient: 399.0
+ObjectOriented: name: name2 year: 2000 popularity: 1.0 inheritance: Inheritance.PLURAL Quotient: 400.0
+Procedural: name: name3 year: 2021 popularity: 1.0 abstract: True Quotient: 404.2
+
+
+
+--------------------------After sorting--------------------------
+Container contains 13 elements.
+Procedural: name: name3 year: 2021 popularity: 1.0 abstract: True Quotient: 404.2
+Procedural: name: name3 year: 2021 popularity: 1.0 abstract: True Quotient: 404.2
+Procedural: name: name3 year: 2021 popularity: 1.0 abstract: True Quotient: 404.2
+Procedural: name: name3 year: 2021 popularity: 1.0 abstract: True Quotient: 404.2
+Procedural: name: name3 year: 2021 popularity: 1.0 abstract: True Quotient: 404.2
+ObjectOriented: name: name2 year: 2000 popularity: 1.0 inheritance: Inheritance.PLURAL Quotient: 400.0
+ObjectOriented: name: name2 year: 2000 popularity: 1.0 inheritance: Inheritance.PLURAL Quotient: 400.0
+ObjectOriented: name: name2 year: 2000 popularity: 1.0 inheritance: Inheritance.PLURAL Quotient: 400.0
+ObjectOriented: name: name2 year: 2000 popularity: 1.0 inheritance: Inheritance.PLURAL Quotient: 400.0
+Functional: name: name1 year: 1995 popularity: 1.0 support: True type: Typing.STRICT Quotient: 399.0
+Functional: name: name1 year: 1995 popularity: 1.0 support: True type: Typing.STRICT Quotient: 399.0
+Functional: name: name1 year: 1995 popularity: 1.0 support: True type: Typing.STRICT Quotient: 399.0
+Functional: name: name1 year: 1995 popularity: 1.0 support: True type: Typing.STRICT Quotient: 399.0
